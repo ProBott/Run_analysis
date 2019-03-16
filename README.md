@@ -2,8 +2,7 @@ Data Cleaning and Transformation
 
 The data transformation steps are as follows:
 
-1.Test and training data is downloaded as UCI HAR Dataset in the working directory ‘~/R/data/‘ from the following url:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+1.Test and training data is downloaded as UCI HAR Dataset in the working directory from the given url.
 
 2. Each data set is read in using read.table
 
